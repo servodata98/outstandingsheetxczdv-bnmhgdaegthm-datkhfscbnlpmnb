@@ -1,3 +1,2 @@
 Customer Name,Invoice Number,Liters,Area,Date,Status
-Jane Smith,INV1235,150,South,10/03/2025,Deliver
-Jane Smith,INV1235,150,South,10/03/2025,Deliver
+New Customer,INV1001,0,Unknown,10/03/2025,Deliver
