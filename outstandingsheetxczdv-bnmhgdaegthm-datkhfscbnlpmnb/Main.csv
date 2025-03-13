@@ -1,3 +1,4 @@
-Name,Address,Gen,Days,Circulate Amt,Return,New Amt,Start Date,End Date,Bonus,Action
-don,,1,1,,,,2025-03-13T22:56,14-03-25 10:56 PM,,Delete
-ker,,1,1,,,,2025-03-13T23:55,14-03-25 11:55 PM,,Delete
+Name,Address,Gen,Days,Circulate Amt,Return,New Amt,Start Date,End Date,C.Date,Bonus,Action
+don,,1,1,,,,2025-03-13T22:56,14-03-25 10:56 PM,,Delete,Delete
+ker,,1,1,,,,2025-03-13T23:55,14-03-25 11:55 PM,,Delete,Delete
+,,1,1,500,$2.00,$502.00,2025-03-02T01:51,03-03-25 1:51 AM,1d 00:00,$0.40,Delete
