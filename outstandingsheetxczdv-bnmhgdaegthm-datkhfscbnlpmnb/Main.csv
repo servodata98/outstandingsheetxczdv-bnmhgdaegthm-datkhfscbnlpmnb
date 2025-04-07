@@ -1,6 +1,6 @@
 Name,Address,Gen,Days,Circulate Amt,Return,New Amt,Start Date,End Date,Bonus,Action
 Donbok (DonDB),3F0f151,1,28,201,$48.24,$249.24,2025-04-07T11:38,05-May-25 11:38,$9.65,Delete
-Clara Kharkongor (CK1) DB,a884d8d,2,28,85.678,$20.56,$106.238,2025-03-10T18:21,07-Apr-25 18:21,$2.06,Delete
+Clara Kharkongor (CK1) DB,a884d8d,2,28,100,$24.00,$124,2025-04-07T18:28,05-May-25 18:28,$2.40,Delete
 Dafini Rymbai (DR1),3dd7C0ec,2,28,19.828,$4.76,$24.588,2025-03-10T18:24,07-Apr-25 18:24,$0.48,Delete
 Kmen Rynjah (KR1),e015ead,2,28,18.131,$4.35,$22.481,2025-03-10T18:30,07-Apr-25 18:30,$0.43,Delete
 Merinda Bareh (MERB1),Acf13F58,2,28,109.548,$26.29,$135.838,2025-03-11T12:20,08-Apr-25 12:20,$2.63,Delete
