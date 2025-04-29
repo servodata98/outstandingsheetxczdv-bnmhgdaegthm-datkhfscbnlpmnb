@@ -1,7 +1,7 @@
 Name,Address,Gen,Days,Circulate Amt,Return,New Amt,Start Date,End Date,Bonus,Action
-Magdalyne Bareh T (MB1),4a5C8Bd,2,28,60.196,$14.45,$74.646,2025-04-01T00:31,29-Apr-25 00:31,$1.45,Delete
-Ruddy Nongbri (RN1),0B883cc6E,2,28,23.642,$5.67,$29.312,2025-04-01T00:34,29-Apr-25 00:34,$0.57,Delete
-Bethsaida Bareh (BB1),40bb032,2,28,51.478,$12.35,$63.828,2025-04-01T00:36,29-Apr-25 00:36,$1.24,Delete
+Magdalyne Bareh T (MB1),4a5C8Bd,2,28,74.643,$17.91,$92.553,2025-03-29T09:18,26-Apr-25 09:18,$1.79,Delete
+Ruddy Nongbri (RN1),0B883cc6E,2,28,29.316,$7.04,$36.356,2025-03-29T09:16,26-Apr-25 09:16,$0.70,Delete
+Bethsaida Bareh (BB1),40bb032,2,28,63.833,$15.32,$79.153,2025-03-29T09:19,26-Apr-25 09:19,$1.53,Delete
 Bankit Lyngdoh (BL1),7bD1DdC,2,28,25.627,$6.15,$31.777,2025-04-03T19:18,01-May-25 19:18,$0.62,Delete
 Donbok (DonDB),3F0f151,1,28,201,$48.24,$249.24,2025-04-07T11:38,05-May-25 11:38,$9.65,Delete
 DB8 (LK1),5427668,3,28,65.435,$15.70,$81.135,2025-04-07T11:53,05-May-25 11:53,$0.79,Delete
