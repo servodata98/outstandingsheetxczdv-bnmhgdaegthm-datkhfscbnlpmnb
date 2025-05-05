@@ -1,5 +1,4 @@
 Name,Address,Gen,Days,Circulate Amt,Return,New Amt,Start Date,End Date,Bonus,Action
-DB8 (LK1),5427668,2,28,65.435,$15.70,$81.135,2025-04-07T11:53,05-May-25 11:53,$1.57,Delete
 Clara Kharkongor (CK1) DB,a884d8d,1,28,100,$24.00,$124,2025-04-07T18:28,05-May-25 18:28,$4.80,Delete
 Dafini Rymbai (DR1),3dd7C0ec,1,28,24.587,$5.90,$30.487,2025-04-07T18:31,05-May-25 18:31,$1.18,Delete
 Kmen Rynjah (KR1),e015ead,1,28,22.483,$5.40,$27.883,2025-04-07T18:33,05-May-25 18:33,$1.08,Delete
@@ -38,3 +37,4 @@ Magdalyne Bareh T (MB1),4a5C8Bd,1,28,74.643,$17.91,$92.553,2025-04-29T09:18,27-M
 Bethsaida Bareh (BB1),40bb032,1,28,63.833,$15.32,$79.153,2025-04-29T09:19,27-May-25 09:19,$3.06,Delete
 Rishan (CK),B50da0,2,28,11,$2.64,$13.64,2025-05-02T12:55,30-May-25 12:55,$0.26,Delete
 Bankit Lyngdoh (BL1),7bD1DdC,1,28,31.904,$7.66,$39.564,2025-05-02T20:55,30-May-25 20:55,$1.53,Delete
+DB8 (LK1),5427668,2,28,142.724,$34.25,$176.974,2025-05-05T11:53,02-Jun-25 11:53,$3.43,Delete
