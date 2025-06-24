@@ -1,7 +1,7 @@
 Name,Address,Gen,Days,Circulate Amt,Return,New Amt,Start Date,End Date,Bonus,Action
-Ruddy Nongbri (RN1),0B883cc6E,2,28,36.352,$8.72,$45.072,2025-05-27T09:19,24-Jun-25 09:19,$0.87,Delete
-Bethsaida Bareh (BB1),40bb032,2,28,79.153,$19.00,$98.153,2025-05-27T09:19,24-Jun-25 09:19,$1.90,Delete
-Magdalyne Bareh T (MB1),4a5C8Bd,2,28,92.557,$22.21,$114.767,2025-05-27T09:21,24-Jun-25 09:21,$2.22,Delete
+Ruddy Nongbri (RN1),0B883cc6E,2,28,45.076,$10.82,$55.896,2025-06-24T09:20,22-Jul-25 09:20,$1.08,Delete
+Bethsaida Bareh (BB1),40bb032,2,28,98.15,$23.56,$121.71,2025-06-24T09:19,22-Jul-25 09:19,$2.36,Delete
+Magdalyne Bareh T (MB1),4a5C8Bd,2,28,114.771,$27.55,$142.321,2025-06-24T09:22,22-Jul-25 09:22,$2.76,Delete
 Rishan (CK),B50da0,3,28,13.64,$3.27,$16.91,2025-05-30T13:40,27-Jun-25 13:40,$0.16,Delete
 Bankit Lyngdoh (BL1),7bD1DdC,2,28,39.561,$9.49,$49.051,2025-05-30T21:32,27-Jun-25 21:32,$0.95,Delete
 Donbok (DonDB),3F0f151,1,28,201,$48.24,$249.24,2025-06-02T11:42,30-Jun-25 11:42,$9.65,Delete
