@@ -1,5 +1,4 @@
 Name,Address,Gen,Days,Circulate Amt,Return,New Amt,Start Date,End Date,Bonus,Action
-Clara CK1 (DB),Da4968,2,28,140,$33.60,$173.6,2025-07-29T23:17,26-Aug-25 23:17,$3.36,Delete
 Bankit Lyngdoh (BL1),7bD1DdC,1,28,27.677,$6.64,$34.317,2025-07-30T11:45,27-Aug-25 11:45,$1.33,Delete
 Pleasnt Blah (PB1),B3D270B,1,28,30.452,$7.31,$37.762,2025-07-30T11:51,27-Aug-25 11:51,$1.46,Delete
 Evareen Laloo (EL1),E873683,1,28,30.452,$7.31,$37.762,2025-07-30T11:54,27-Aug-25 11:54,$1.46,Delete
@@ -54,3 +53,4 @@ DB5 (LK1),B23536,2,28,170,$40.80,$210.8,2025-08-25T21:19,22-Sep-25 21:19,$4.08,D
 Kmen Rynjah (KR1),e015ead,1,28,70.64,$16.95,$87.59,2025-08-25T21:51,22-Sep-25 21:51,$3.39,Delete
 Dafini Rymbai (DR1),3dd7C0ec,1,28,72.08,$17.30,$89.38,2025-08-25T21:55,22-Sep-25 21:55,$3.46,Delete
 Merinda Bareh (MERB1),Acf13F58,1,28,398.230,$95.58,$493.81,2025-08-26T17:23,23-Sep-25 17:23,$19.12,Delete
+Clara CK1 (DB),Da4968,2,28,160,$38.40,$198.4,2025-08-26T23:17,23-Sep-25 23:17,$3.84,Delete
