@@ -1,6 +1,5 @@
 Name,Address,Gen,Days,Circulate Amt,Return,New Amt,Start Date,End Date,Bonus,Action
 Clara2 (CK) DB,f39e78d45F,2,28,15,$3.60,$18.6,2025-09-24T16:16,22-Oct-25 16:16,$0.36,Delete
-Bankit Lyngdoh (BL1),7bD1DdC,2,28,52.76,$12.66,$65.42,2025-09-24T21:58,22-Oct-25 21:58,$1.27,Delete
 Mbareh2 (CK),45cAbCea,3,28,389.197,$93.41,$482.607,2025-09-24T22:03,22-Oct-25 22:03,$4.67,Delete
 DBareh DonM (MB1)),F58F46AB,2,28,15,$3.60,$18.6,2025-09-24T22:10,22-Oct-25 22:10,$0.36,Delete
 Dbareh1 (SB1)DB,068a90a1,2,28,15,$3.60,$18.6,2025-09-24T22:12,22-Oct-25 22:12,$0.36,Delete
@@ -59,3 +58,4 @@ Phuh Kharmawlong (PH1),2E2AC0e,2,28,45.053,$10.81,$55.863,2025-10-22T15:31,19-No
 Rishan (CK),B50da0,3,28,52.771,$12.67,$65.441,2025-10-22T15:33,19-Nov-25 15:33,$0.63,Delete
 Bankit Lyngdoh (BL1),7bD1DdC,2,28,37.200,$8.93,$46.13,2025-10-22T15:40,19-Nov-25 15:40,$0.89,Delete
 Skhem (CK) MB1,708FfcEcBA,3,28,282.465,$67.79,$350.255,2025-10-22T16:20,19-Nov-25 16:20,$3.39,Delete
+Bankit Lyngdoh (BL1),7bD1DdC,2,28,65.433,$15.70,$81.133,2025-10-22T22:08,19-Nov-25 22:08,$1.57,Delete
